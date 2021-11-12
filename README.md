@@ -1,1 +1,1 @@
-# Intermediate_ML
+# Intermediate Machine Learning
