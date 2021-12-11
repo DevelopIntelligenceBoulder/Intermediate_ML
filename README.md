@@ -16,5 +16,11 @@ by Ray Khorsandi
 | Logistic_Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Logistic_Regression_demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Logistic_Regression_exercise.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Logistic_Regression_Solution.ipynb) |
 | Missing values | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intermediate_ML/blob/main/missing_values.ipynb) | NA | NA |
 | Outliers | NA | NA | NA |
+| Pipeline | NA | NA | NA |
+| cross validation | NA | NA | NA |
+| feature engineering | NA | NA | NA |
+| Time Series | NA | NA | NA |
+
+
 | Deep Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/c30c1dcf2bc20119bcda7e734ce0eb42/quickstart_tutorial.ipynb) |  n/a | n/a |
 
