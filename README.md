@@ -3,7 +3,6 @@ by Ray Khorsandi
 | Topic | Demo | Exercise | Solution |
 |---------|-------------|-------------|-------------|
 | Jupyter Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Jupyter_demo.ipynb) | n/a | n/a |
-| SF_vs_NY | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/SF_vs_NY_demo.ipynb) | n/a | n/a |
 | Pandas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Pandas_demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Pandas_exercise.ipynb) | n/a |
 | Scikit Learn| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Scikit-learn_demo.ipynb) | n/a | n/a |
 | Linear_Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Linear_Regression_demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Linear_Regression_exercise.ipynb) | n/a |
@@ -15,5 +14,7 @@ by Ray Khorsandi
 | Feature_Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Feature_Engineering_Dates_demo.ipynb) | n/a | n/a |
 | Model_Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Model_Evaluation_demo.ipynb) | n/a | n/a |
 | Logistic_Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Logistic_Regression_demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Logistic_Regression_exercise.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Logistic_Regression_Solution.ipynb) |
+| Missing values | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intermediate_ML/blob/main/missing_values.ipynb) | NA | NA |
+| Outliers | NA | NA | NA |
 | Deep Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/c30c1dcf2bc20119bcda7e734ce0eb42/quickstart_tutorial.ipynb) |  n/a | n/a |
 
