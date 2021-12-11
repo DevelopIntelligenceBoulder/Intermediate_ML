@@ -20,7 +20,5 @@ by Ray Khorsandi
 | cross validation | NA | NA | NA |
 | feature engineering | NA | NA | NA |
 | Time Series | NA | NA | NA |
-
-
 | Deep Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/c30c1dcf2bc20119bcda7e734ce0eb42/quickstart_tutorial.ipynb) |  n/a | n/a |
 
