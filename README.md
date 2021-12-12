@@ -18,9 +18,9 @@ by Ray Khorsandi
 | Outliers | NA | NA | NA |
 | Pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Intermediate_ML/blob/main/pipelines.ipynb) | NA | NA |
 | cross validation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Intermediate_ML/blob/main/cross-validation.ipynb) | NA | NA |
-| Ensemble | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Intermediate_ML/blob/main/ensembling-stacking-in-python.ipynb.ipynb) | NA | NA |
+| Ensemble | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Intermediate_ML/blob/main/ensembling-stacking-in-python.ipynb) | NA | NA |
 | XGBoost | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Intermediate_ML/blob/main/xgboost_demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Intermediate_ML/blob/main/xgboost_kaggle.ipynb) | NA |
-| feature engineering | NA | NA | NA |
-| Time Series | NA | NA | NA |
+| feature engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Intermediate_ML/blob/main/what-is-feature-engineering.ipynb) | NA | NA |
+| Time Series | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Intermediate_ML/blob/main/time-series/Time_series_demo.ipynb) | NA | NA |
 | Deep Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/c30c1dcf2bc20119bcda7e734ce0eb42/quickstart_tutorial.ipynb) |  n/a | n/a |
 
